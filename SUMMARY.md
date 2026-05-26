@@ -1,3 +1,3 @@
 # Table of contents
 
-* [nmap-cheatsheet](README.md)
+* [nmap-cheatsheet](nmap.md)
